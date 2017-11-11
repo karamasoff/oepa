@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>On n&#39;est pas aidés!</title>
-    <link>http://www.oepa.tech/</link>
-    <description>Recent content on On n&#39;est pas aidés!</description>
+    <title>Posts on On n&#39;est pas aidés!</title>
+    <link>http://www.oepa.tech/posts/</link>
+    <description>Recent content in Posts on On n&#39;est pas aidés!</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>fr-ch</language>
     <lastBuildDate>Fri, 18 Aug 2017 18:04:12 +0200</lastBuildDate>
     
-	<atom:link href="http://www.oepa.tech/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="http://www.oepa.tech/posts/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
