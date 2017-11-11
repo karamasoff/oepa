@@ -1,0 +1,4 @@
+baseURL = "http://www.oepa.tech"
+languageCode = "fr-ch"
+title = "On n'est pas aidés!"
+theme = "ananke"
