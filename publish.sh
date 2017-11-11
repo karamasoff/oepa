@@ -24,4 +24,4 @@ echo "Generating site"
 hugo
 
 echo "Updating gh-pages branch"
-cd public && echo "opea.tech" >> CNAME && git add --all && git commit -m "Publishing to gh-pages (publish.sh)"
+cd public && echo "opea.tech" >> CNAME && git add --all && git commit -m "Publishing to gh-pages (publish.sh)" && git push origin gh-pages
