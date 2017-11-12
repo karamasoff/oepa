@@ -1,8 +1,8 @@
 ---
-title: "On n'est pas aidés !"
+title: "Genesis"
 date: 2017-08-18T18:04:12+02:00
 ---
 
-## Pourquoi ?
+## Why ?
 
-Des fois, on se demande ce qu'on fait ici...
+This french slogan could be translated in english (literaly) by "We are not helped !"
