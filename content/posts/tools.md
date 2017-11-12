@@ -4,7 +4,7 @@ date: 2017-08-18T18:04:12+02:00
 weight: 100
 ---
 
-# Some tools we use (or would like to use)
+Here are some tools we use (or would like to use)
 
 ### used
 - Hugo (for this website)
