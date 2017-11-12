@@ -1,4 +1,26 @@
 baseURL = "http://www.oepa.tech"
-languageCode = "fr-ch"
+languageCode = "en-us"
 title = "On n'est pas aidés!"
-theme = "ananke"
+theme = "dimension"
+
+enableRobotsTXT = true
+disableKinds=["RSS"]
+
+[params]
+  description = '<!--[-->Sometimes life gives you lemon...<!--]--><br />
+                <!--[-->...and you just gotta deal with it.<!--]-->'
+  logo = "fa-meh-o"
+  copyright = "MF"
+
+[languages]
+[languages.en]
+languageName = "English"
+weight = 1
+
+
+# [languages.fr]
+# languageName = "Français"
+# weight = 2
+# title = "Dimension"
+# description = '<!--[-->Parfois, on se dit qu&quot;on veut tout arrêter et vendre des donuts à la plage...<!--]--><br />
+#                 <!--[-->...mais on peut mieux faire avec ce qu&quot;on a !<!--]-->'
