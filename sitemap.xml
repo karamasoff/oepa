@@ -1,31 +1,41 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
-<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
-  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+
   
   <url>
-    <loc>http://www.oepa.tech/posts/genesis/</loc>
+    <loc>http://www.oepa.tech/#contact</loc>
     <lastmod>2017-08-18T18:04:12+02:00</lastmod>
   </url>
   
   <url>
-    <loc>http://www.oepa.tech/categories/</loc>
+    <loc>http://www.oepa.tech/#genesis</loc>
+    <lastmod>2017-08-18T18:04:12+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://www.oepa.tech/#tools</loc>
+    <lastmod>2017-08-18T18:04:12+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://www.oepa.tech/#</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://www.oepa.tech/</loc>
+    <loc>http://www.oepa.tech/#</loc>
     <lastmod>2017-08-18T18:04:12+02:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://www.oepa.tech/posts/</loc>
+    <loc>http://www.oepa.tech/#</loc>
     <lastmod>2017-08-18T18:04:12+02:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://www.oepa.tech/tags/</loc>
+    <loc>http://www.oepa.tech/#</loc>
     <priority>0</priority>
   </url>
   
