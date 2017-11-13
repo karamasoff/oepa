@@ -1,6 +1,6 @@
 baseURL = "http://www.oepa.tech"
 languageCode = "en-us"
-title = "On n'est pas aidés!"
+title = "On n'est pas aidé!"
 theme = "dimension"
 
 enableRobotsTXT = true
