@@ -8,7 +8,7 @@ Here are some tools we use (or would like to use)
 
 ### used
 - Hugo (to manage the content)
-- Github (to host this website) => and now Caddy :)
+- Github (to host this website) => and now Caddy :-)
 - Gravit (to design vector graphics)
 - Unsplash.com (to get free cool images)
 
