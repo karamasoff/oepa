@@ -7,8 +7,8 @@ weight: 100
 Here are some tools we use (or would like to use)
 
 ### used
-- Hugo (for this website)
-- Github (to host this website)
+- Hugo (to manage the content)
+- Github (to host this website) => and now Caddy :)
 - Gravit (to design vector graphics)
 - Unsplash.com (to get free cool images)
 
